@@ -8,9 +8,13 @@
 -	Documented all code on GitHub throughout the app development
 -	Presented an app demonstration with team after every two to three week sprint 
 
-
 ## Link to repo
 https://github.com/WSU-4110/HouseMate 
 
+## Screenshots
+![Login View](https://github.com/ajohn5960/HouseMate/blob/main/HouseMate%20Login.PNG)
 
+![Completed Tasks View](https://github.com/ajohn5960/HouseMate/blob/main/HouseMate%20Completed%20Tasks.PNG)
+
+![New Tasks View](https://github.com/ajohn5960/HouseMate/blob/main/HouseMate%20New%20Task.PNG)
 
